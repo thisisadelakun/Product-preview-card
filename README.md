@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [GitHub](https://github.com/thisisadelakun/Product-preview-card) -->
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/thisisadelakun/Product-preview-card)
+- Live Site URL: [Netlify](https://adelakunpreviewcard.netlify.app/)
 
 ## My process
 
@@ -52,9 +52,10 @@ I have learned javascript, but i want to continue my development in JavaScript a
 
 ## Author
 
-- Website - [Adelakun Abayomi](https://adelakunportfolio.netlify.app/)
+- LinkedIn - [Adelakun Abayomi](https://www.linkedin.com/in/abayomi-adelakun-897227178/)
+- Portfolio - [Adelakun Abayomi](https://adelakunportfolio.netlify.app/)
 - Frontend Mentor - [@thisisadelakun](https://www.frontendmentor.io/profile/thisisadelakun)
-- Instagram - [@thisisadelakun](https://www.instagram.com/thisisadelakun)
+- Twitter - [@thisisadelakun](https://www.twitter.com/thisisadelakun)
 
 ## Acknowledgments
 
